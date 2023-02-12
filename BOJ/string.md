@@ -1,4 +1,0 @@
----
-label: page
-title: string
----
