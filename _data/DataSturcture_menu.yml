@@ -1,0 +1,5 @@
+- label: DataSturcture_menu
+  - name: stack
+    - link: #
+  - name: queue
+    - link: #
