@@ -7,5 +7,12 @@
       link: /Algorithm/
     - name: 자료구조
       link: /DataStructure/
+- name: ProblemSet
+  link: #
+  dropdown:
+    -name: BOJ
+    link: /BOJ/
+    -name: KOI
+    link: /KOI/
 - name: Blog
   link: /Blog/
