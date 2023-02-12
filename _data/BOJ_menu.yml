@@ -1,0 +1,5 @@
+- label: BOJ Menu
+  items:
+    - name: 문자열
+      link: /BOJ/string/
+    
