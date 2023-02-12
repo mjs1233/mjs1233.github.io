@@ -1,3 +1,4 @@
 - label: Algorithm_menu
+  items:
   - name: --
     link: #
