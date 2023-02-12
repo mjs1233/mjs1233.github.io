@@ -1,7 +1,7 @@
 - name: Project
   link: /Project/
 - name: Learn
-  link: /Learn/
+  link: #
   dropdown: 
     - name: 알고리즘
       link: /Algorithm/
