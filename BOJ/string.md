@@ -1,0 +1,4 @@
+---
+label: page
+title: string
+---
