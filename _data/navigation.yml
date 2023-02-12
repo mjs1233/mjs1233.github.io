@@ -11,8 +11,8 @@
   link: #
   dropdown:
     - name: 백준
-     link: /BOJ/
+      link: /BOJ/
     - name: 정보올림피아드
-    link: /KOI/
+      link: /KOI/
 - name: Blog
   link: /Blog/
