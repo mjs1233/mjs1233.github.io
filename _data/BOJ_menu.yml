@@ -1,7 +1,8 @@
 - label: BOJ Menu
   items:
-    - name: 문자열
+    - name: 문제 분류
       link: #
       items: 
       - name: 문제번호/ 이름
+      - link: /BOJ/TEMP/
     
