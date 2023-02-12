@@ -1,5 +1,7 @@
 - label: BOJ Menu
   items:
     - name: 문자열
-      link: /BOJ/string/
+      link: #
+      items: 
+      - name: 문제번호/ 이름
     
