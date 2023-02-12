@@ -10,9 +10,9 @@
 - name: ProblemSet
   link: #
   dropdown:
-    -name: 백준
+    - name: 백준
      link: /BOJ/
-    -name: 정보올림피아드
+    - name: 정보올림피아드
     link: /KOI/
 - name: Blog
   link: /Blog/
