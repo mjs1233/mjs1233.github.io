@@ -1,9 +1,11 @@
 - name: Project
   link: /Project/
-- name: Problemset
-  link: /Problemset/
+- name: Learn
+  link: /Learn/
   dropdown: 
-    - name: 백준
-      link: /BOJ/
-    - name: 정보올림피아드
-      link: /KOI/
+    - name: 알고리즘
+      link: /Algorithm/
+    - name: 자료구조
+      link: /DataStructure/
+- name: Blog
+  link: /blog/
