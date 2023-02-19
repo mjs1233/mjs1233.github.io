@@ -1,10 +1,10 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
+title: 김태경
 tagline: Bulma Clean Theme
 email: apcbchet@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  프로그래밍 폴트폴리오
 baseurl: ""
 url: "https://mjs1233.github.io"
 permalink: pretty
